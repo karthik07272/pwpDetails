@@ -1,0 +1,448 @@
+2022-08-08 09:55:13,529 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 09:55:13,530 - FastApi - ERROR  - candidate_services.py - candidate_services: delete_user: 69 - Exception into insert_item  ----> 'str' object has no attribute 'email'
+2022-08-08 09:58:09,534 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 09:58:09,772 - FastApi - ERROR  - candidate_services.py - candidate_services: delete_user: 69 - Exception into insert_item  ----> Failed to delete user :final_res() missing 1 required positional argument: 'data'
+2022-08-08 10:01:46,671 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 10:01:46,774 - FastApi - ERROR  - candidate_services.py - candidate_services: delete_user: 70 - Exception into insert_item  ----> Failed to delete user :final_res() missing 1 required positional argument: 'data'
+2022-08-08 10:03:44,370 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 10:03:44,674 - FastApi - ERROR  - candidate_services.py - candidate_services: delete_user: 70 - Exception into insert_item  ----> Failed to delete user :final_res() missing 1 required positional argument: 'data'
+2022-08-08 10:05:08,073 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 10:24:03,727 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 10:25:41,952 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 10:27:09,475 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 10:27:26,438 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 10:27:26,447 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,448 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,448 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,448 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,449 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,449 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,450 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,450 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,450 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,451 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,451 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,452 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,454 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,454 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,454 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,454 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,455 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,455 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,455 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,455 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,456 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,456 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,456 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,457 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,457 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,457 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,458 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,458 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,459 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,463 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,464 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,464 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,464 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,465 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,465 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,465 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,465 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,466 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,466 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,466 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,467 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,467 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,468 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,468 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,468 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,468 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,469 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,469 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,469 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,469 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,470 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,470 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,470 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,470 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,470 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,470 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,471 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,471 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,471 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,474 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,474 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,475 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,475 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,475 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,475 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,476 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,476 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,476 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,476 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,476 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,477 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,477 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,477 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,478 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,478 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,478 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,478 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,478 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,478 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,478 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,479 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,479 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,479 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,479 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,479 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,479 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,479 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,479 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,480 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,480 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,480 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,480 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,481 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,481 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,481 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,481 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,482 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,482 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,482 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,483 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,484 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,484 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,485 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,485 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,486 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,493 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,494 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,494 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,494 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,494 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:27:26,494 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 10:28:14,480 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 10:28:56,208 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 10:33:20,051 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 10:33:20,051 - FastApi - ERROR  - candidate_services.py - candidate_services: insert_item: 80 - Exception while handling inserting data into insert_item  ----> 'UserManagement' object has no attribute 'insert'
+2022-08-08 10:37:50,130 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 10:45:00,317 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 10:45:18,300 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 10:50:24,596 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 10:50:43,090 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 10:52:22,756 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 10:54:33,216 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 10:54:33,218 - FastApi - ERROR  - candidate_services.py - candidate_services: create_item: 89 - Exception while handling inserting data into create_item  ----> 'UserManagement' object has no attribute 'create'
+2022-08-08 10:58:27,502 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 10:59:02,681 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 11:01:06,696 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 11:02:41,737 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 11:22:47,319 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 11:29:18,036 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 11:29:18,057 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 38 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 11:29:18,057 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not subscriptable
+2022-08-08 11:29:18,058 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 21 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not subscriptable
+2022-08-08 11:29:42,758 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 11:29:48,306 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 38 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 11:30:29,572 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not subscriptable
+2022-08-08 11:30:37,153 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 21 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not subscriptable
+2022-08-08 11:43:25,203 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 11:43:25,221 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 36 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 11:43:25,222 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not subscriptable
+2022-08-08 11:43:25,222 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 21 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not subscriptable
+2022-08-08 11:44:56,426 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 11:45:00,161 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 36 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 11:46:26,147 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 11:46:26,161 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 36 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 11:46:26,162 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not subscriptable
+2022-08-08 11:46:26,162 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 21 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not subscriptable
+2022-08-08 11:46:42,817 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 11:46:42,833 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 36 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 11:46:42,834 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not subscriptable
+2022-08-08 11:46:42,834 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 21 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not subscriptable
+2022-08-08 11:50:13,514 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 11:50:13,516 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data__init__() takes 1 positional argument but 2 were given
+2022-08-08 11:50:13,516 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 21 - Exception while fetching data  ----> Failed to fetching the data__init__() takes 1 positional argument but 2 were given
+2022-08-08 11:50:27,706 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 11:50:56,208 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data__init__() takes 1 positional argument but 2 were given
+2022-08-08 11:51:09,328 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 21 - Exception while fetching data  ----> Failed to fetching the data__init__() takes 1 positional argument but 2 were given
+2022-08-08 11:53:41,751 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 11:54:23,580 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 12:04:54,385 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 12:04:54,399 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 36 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 12:04:54,399 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not subscriptable
+2022-08-08 12:04:54,399 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 21 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not subscriptable
+2022-08-08 12:05:27,463 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 12:05:27,478 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 36 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 12:05:27,479 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not iterable
+2022-08-08 12:05:27,479 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 21 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-08 12:05:28,912 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 12:05:28,915 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 36 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 12:05:28,916 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not iterable
+2022-08-08 12:05:28,916 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 21 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-08 12:06:44,181 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 12:06:44,194 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 36 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 12:06:44,195 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not iterable
+2022-08-08 12:06:44,195 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-08 12:09:27,026 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 12:09:27,048 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 36 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 12:09:27,057 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not iterable
+2022-08-08 12:09:27,057 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-08 12:10:55,518 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 12:10:55,540 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 36 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 12:10:55,544 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not iterable
+2022-08-08 12:10:55,544 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-08 12:11:15,305 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 12:11:15,323 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 36 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 12:11:15,325 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not iterable
+2022-08-08 12:11:15,326 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-08 12:16:48,914 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 12:16:48,930 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 36 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 12:16:48,933 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not iterable
+2022-08-08 12:16:48,934 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-08 12:18:36,186 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 12:18:36,191 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 36 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 12:18:36,192 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not iterable
+2022-08-08 12:18:36,192 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-08 12:23:15,716 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 12:26:09,974 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 12:26:09,984 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 36 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 12:26:09,987 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not iterable
+2022-08-08 12:26:09,987 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-08 12:26:56,156 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 12:26:56,174 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 36 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 12:26:56,180 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not iterable
+2022-08-08 12:26:56,181 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-08 12:27:10,769 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 12:27:10,774 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 36 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 12:27:10,777 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not iterable
+2022-08-08 12:27:10,777 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-08 13:42:28,470 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 13:42:29,180 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 36 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 13:42:29,230 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not iterable
+2022-08-08 13:42:29,232 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-08 13:58:26,108 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 13:59:00,028 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 14:00:01,282 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 14:01:15,769 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 14:01:33,131 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 14:04:42,380 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 14:07:17,120 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 14:07:17,162 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 36 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 14:07:17,171 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not iterable
+2022-08-08 14:07:17,172 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-08 14:08:37,328 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 14:08:41,062 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 36 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 14:12:12,678 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 14:12:18,356 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 14:13:10,285 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> select_mysql_table() missing 1 required positional argument: 'query'
+2022-08-08 14:14:12,228 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> select_mysql_table() missing 1 required positional argument: 'query'
+2022-08-08 14:15:54,992 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 14:16:53,350 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 37 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 14:18:13,604 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 14:18:13,605 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the dataselect_mysql_table() takes 1 positional argument but 2 were given
+2022-08-08 14:18:13,605 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the dataselect_mysql_table() takes 1 positional argument but 2 were given
+2022-08-08 14:19:21,180 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 14:19:21,211 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 36 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 14:19:21,212 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not iterable
+2022-08-08 14:19:21,212 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-08 14:19:28,007 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 14:19:28,016 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 36 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 14:19:28,016 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not iterable
+2022-08-08 14:19:28,017 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-08 14:19:48,837 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 14:19:51,255 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 36 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 14:20:25,387 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 14:24:23,767 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 14:24:23,946 - FastApi - ERROR  - user_management_handler.py - user_management_handler: insert_user: 68 - Error Occurred while inserting Exception while establishing connection to database
+2022-08-08 14:24:23,947 - FastApi - ERROR  - candidate_services.py - candidate_services: insert_user: 91 - Exception while handling inserting data into insert_user  ----> Failed to insert data:Exception while establishing connection to database
+2022-08-08 14:25:37,582 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 14:28:19,283 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 14:32:11,360 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 14:34:21,073 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 15:48:01,756 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 15:48:01,778 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 37 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 15:48:01,784 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not iterable
+2022-08-08 15:48:01,785 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-08 15:54:15,892 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 15:54:15,901 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 37 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 15:54:15,907 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not iterable
+2022-08-08 15:54:15,907 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-08 15:55:24,925 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 15:55:24,937 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 37 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 15:55:24,941 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not iterable
+2022-08-08 15:55:24,941 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-08 15:55:52,193 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 15:55:52,200 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 37 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 15:55:52,205 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not iterable
+2022-08-08 15:55:52,205 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-08 15:55:56,113 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 15:55:56,117 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 37 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 15:55:56,118 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not iterable
+2022-08-08 15:55:56,118 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-08 16:01:16,607 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 16:01:16,618 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 37 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-08 16:01:16,625 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not iterable
+2022-08-08 16:01:16,625 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-08 17:32:02,709 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 17:32:02,754 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not iterable
+2022-08-08 17:32:02,754 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-08 17:34:14,627 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 17:34:14,658 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not iterable
+2022-08-08 17:34:14,659 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-08 17:34:57,385 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 17:35:29,015 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not iterable
+2022-08-08 17:35:33,421 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-08 17:37:43,008 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 17:37:43,055 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not subscriptable
+2022-08-08 17:37:43,055 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not subscriptable
+2022-08-08 17:41:36,722 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 17:41:36,755 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the datastring index out of range
+2022-08-08 17:41:36,756 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the datastring index out of range
+2022-08-08 17:42:21,459 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 17:42:21,492 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 52 - Exception while updating: 0
+2022-08-08 17:42:21,494 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not subscriptable
+2022-08-08 17:42:21,494 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not subscriptable
+2022-08-08 17:44:51,053 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 17:44:51,069 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 52 - Exception while updating: 'result' is an invalid keyword argument for print()
+2022-08-08 17:44:51,071 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not subscriptable
+2022-08-08 17:44:51,071 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not subscriptable
+2022-08-08 17:45:27,205 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 17:45:27,221 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the datastring index out of range
+2022-08-08 17:45:27,221 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the datastring index out of range
+2022-08-08 17:49:41,395 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 17:49:41,429 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not iterable
+2022-08-08 17:49:41,429 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-08 17:51:22,701 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 17:51:22,728 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not iterable
+2022-08-08 17:51:22,729 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-08 17:51:47,792 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 17:52:18,283 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-08 17:53:13,807 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 24 - Login handler initialized
+2022-08-08 17:53:38,106 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 24 - Login handler initialized
+2022-08-08 17:56:36,941 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 52 - Exception while updating: 0
+2022-08-08 17:56:36,943 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not subscriptable
+2022-08-08 17:56:36,943 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not subscriptable
+2022-08-08 17:57:59,955 - FastApi - ERROR  - mysql_utility.py - mysql_utility: select_mysql_table: 52 - Exception while updating: 0
+2022-08-08 17:57:59,957 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the data'bool' object is not subscriptable
+2022-08-08 17:57:59,957 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not subscriptable
+2022-08-08 17:58:38,484 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the datastring index out of range
+2022-08-08 17:58:38,485 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the datastring index out of range
+2022-08-08 19:01:49,026 - FastApi - ERROR  - candidate_utility.py - candidate_utility: __init__: 26 - Exception while establishing connection to database - 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+2022-08-08 19:01:49,027 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the dataException while establishing connection to database
+2022-08-08 19:01:49,027 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the dataException while establishing connection to database
+2022-08-08 19:02:33,317 - FastApi - ERROR  - candidate_utility.py - candidate_utility: __init__: 26 - Exception while establishing connection to database - 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+2022-08-08 19:02:33,318 - FastApi - ERROR  - user_management_handler.py - user_management_handler: Display: 34 - Error while fetching the dataException while establishing connection to database
+2022-08-08 19:02:33,318 - FastApi - ERROR  - candidate_services.py - candidate_services: employee: 20 - Exception while fetching data  ----> Failed to fetching the dataException while establishing connection to database
+2022-08-08 19:03:05,362 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,363 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,363 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,363 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,364 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,364 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,365 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,366 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,366 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,366 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,366 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,366 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,366 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,366 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,366 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,366 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,367 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,367 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,367 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,367 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,367 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,367 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,367 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,368 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,368 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,368 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,368 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,368 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,368 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,368 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,368 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,378 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,378 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,378 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,378 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,379 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,379 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,379 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,379 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,380 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,380 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,380 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,381 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,381 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,381 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,381 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,382 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,382 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,382 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,382 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,383 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,383 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,383 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,383 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,383 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,383 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,383 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,383 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,383 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,384 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,384 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,393 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,393 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,393 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,394 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,394 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,394 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,394 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,394 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,395 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,395 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,395 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,395 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,396 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,396 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,396 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,396 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,397 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,397 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,398 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,398 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,399 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,399 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,399 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,400 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,400 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,400 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,400 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,400 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,400 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,400 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,410 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,410 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,410 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,410 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,410 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,410 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,410 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,410 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,411 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,411 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,411 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,411 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,411 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,411 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,411 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,411 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,411 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,411 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,412 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized
+2022-08-08 19:03:05,412 - FastApi - INFO  - user_management_handler.py - user_management_handler: Display: 30 - Login Handler Initialized

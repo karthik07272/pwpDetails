@@ -1,0 +1,43 @@
+2022-08-11 12:24:37,309 - FastApi - ERROR  - mysql_utility.py - mysql_utility: execute_query: 408 - Exception while updating: (1146, "Table 'epr_dev.application_dashboard' doesn't exist")
+2022-08-11 12:24:37,320 - FastApi - ERROR  - user_management_handler.py - user_management_handler: dashboard_statistics: 44 - Error while fetching the data'bool' object is not iterable
+2022-08-11 12:24:37,320 - FastApi - ERROR  - candidate_services.py - candidate_services: dashboard_statistics: 21 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-11 12:29:52,862 - FastApi - ERROR  - mysql_utility.py - mysql_utility: execute_query: 408 - Exception while updating: 'MYSQL_Utility' object has no attribute 'port'
+2022-08-11 12:29:52,864 - FastApi - ERROR  - user_management_handler.py - user_management_handler: dashboard_statistics: 44 - Error while fetching the data'bool' object is not iterable
+2022-08-11 12:29:52,865 - FastApi - ERROR  - candidate_services.py - candidate_services: dashboard_statistics: 21 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-11 12:31:00,834 - FastApi - ERROR  - mysql_utility.py - mysql_utility: execute_query: 409 - Exception while updating: port should be of type int
+2022-08-11 12:31:00,841 - FastApi - ERROR  - user_management_handler.py - user_management_handler: dashboard_statistics: 44 - Error while fetching the data'bool' object is not iterable
+2022-08-11 12:31:00,842 - FastApi - ERROR  - candidate_services.py - candidate_services: dashboard_statistics: 21 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-11 12:31:19,208 - FastApi - ERROR  - mysql_utility.py - mysql_utility: execute_query: 409 - Exception while updating: port should be of type int
+2022-08-11 12:31:19,209 - FastApi - ERROR  - user_management_handler.py - user_management_handler: dashboard_statistics: 44 - Error while fetching the data'bool' object is not iterable
+2022-08-11 12:31:19,209 - FastApi - ERROR  - candidate_services.py - candidate_services: dashboard_statistics: 21 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-11 12:58:22,683 - FastApi - ERROR  - mysql_utility.py - mysql_utility: execute_query: 409 - Exception while updating: port should be of type int
+2022-08-11 12:58:22,687 - FastApi - ERROR  - user_management_handler.py - user_management_handler: dashboard_statistics: 45 - Error while fetching the data'bool' object is not iterable
+2022-08-11 12:58:22,688 - FastApi - ERROR  - candidate_services.py - candidate_services: dashboard_statistics: 21 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-11 12:59:43,735 - FastApi - ERROR  - mysql_utility.py - mysql_utility: execute_query: 409 - Exception while updating: port should be of type int
+2022-08-11 13:00:02,160 - FastApi - ERROR  - user_management_handler.py - user_management_handler: dashboard_statistics: 45 - Error while fetching the data'bool' object is not iterable
+2022-08-11 13:00:05,311 - FastApi - ERROR  - candidate_services.py - candidate_services: dashboard_statistics: 21 - Exception while fetching data  ----> Failed to fetching the data'bool' object is not iterable
+2022-08-11 13:41:53,367 - FastApi - ERROR  - mysql_utility.py - mysql_utility: execute_query: 409 - Exception while updating: port should be of type int
+2022-08-11 13:43:32,750 - FastApi - ERROR  - mysql_utility.py - mysql_utility: execute_query: 409 - Exception while updating: invalid literal for int() with base 10: '192.168.3.145'
+2022-08-11 13:44:14,823 - FastApi - ERROR  - mysql_utility.py - mysql_utility: __init__: 18 - Exception in the MySQL initializationinvalid literal for int() with base 10: '192.168.3.145'
+Traceback (most recent call last):
+  File "C:\Users\karthik.hb\PycharmProjects\pythonProject6\scripts\utilities\mysql_utility.py", line 13, in __init__
+    self.port = int(port)
+ValueError: invalid literal for int() with base 10: '192.168.3.145'
+2022-08-11 13:44:14,825 - FastApi - ERROR  - mysql_utility.py - mysql_utility: execute_query: 409 - Exception while updating: 'MYSQL_Utility' object has no attribute 'port'
+2022-08-11 13:44:49,669 - FastApi - ERROR  - mysql_utility.py - mysql_utility: execute_query: 409 - Exception while updating: port should be of type int
+2022-08-11 13:49:30,215 - FastApi - ERROR  - mysql_utility.py - mysql_utility: execute_query: 409 - Exception while updating: port should be of type int
+2022-08-11 13:52:08,802 - FastApi - ERROR  - mysql_utility.py - mysql_utility: execute_query: 409 - Exception while updating: port should be of type int
+2022-08-11 13:52:28,813 - FastApi - ERROR  - mysql_utility.py - mysql_utility: execute_query: 409 - Exception while updating: port should be of type int
+2022-08-11 13:58:37,806 - FastApi - ERROR  - mysql_utility.py - mysql_utility: execute_query: 409 - Exception while updating: port should be of type int
+2022-08-11 13:59:35,341 - FastApi - ERROR  - mysql_utility.py - mysql_utility: execute_query: 409 - Exception while updating: port should be of type int
+2022-08-11 15:46:38,810 - FastApi - ERROR  - user_management_handler.py - user_management_handler: dashboard_statistics1: 83 - Error while fetching the data'user_type'
+2022-08-11 16:59:16,682 - FastApi - ERROR  - user_management_handler.py - user_management_handler: dashboard_statistics: 44 - Error while fetching the data'user_type'
+2022-08-11 16:59:16,683 - FastApi - ERROR  - candidate_services.py - candidate_services: dashboard_statistics: 19 - Exception while fetching data  ----> Failed to fetching the data'user_type'
+2022-08-11 16:59:48,404 - FastApi - ERROR  - user_management_handler.py - user_management_handler: dashboard_statistics1: 82 - Error while fetching the data'str' object has no attribute 'email'
+2022-08-11 17:16:45,314 - FastApi - ERROR  - mysql_utility.py - mysql_utility: execute_query: 409 - Exception while updating: (1054, "Unknown column 'email' in 'where clause'")
+2022-08-11 17:22:37,882 - FastApi - ERROR  - mysql_utility.py - mysql_utility: execute_query: 409 - Exception while updating: (1054, "Unknown column 'user' in 'where clause'")
+2022-08-11 18:58:53,237 - FastApi - ERROR  - mysql_utility.py - mysql_utility: execute_query: 409 - Exception while updating: (1222, 'The used SELECT statements have a different number of columns')
+2022-08-11 19:00:10,293 - FastApi - ERROR  - mysql_utility.py - mysql_utility: execute_query: 409 - Exception while updating: (1222, 'The used SELECT statements have a different number of columns')
+2022-08-11 21:46:00,655 - FastApi - ERROR  - mysql_utility.py - mysql_utility: execute_query: 409 - Exception while updating: (2003, "Can't connect to MySQL server on '192.168.3.145' (timed out)")
+2022-08-11 21:49:40,588 - FastApi - ERROR  - mysql_utility.py - mysql_utility: execute_query: 409 - Exception while updating: (2003, "Can't connect to MySQL server on '192.168.3.145' (timed out)")
+2022-08-11 21:50:28,779 - FastApi - ERROR  - mysql_utility.py - mysql_utility: execute_query: 409 - Exception while updating: (2003, "Can't connect to MySQL server on '192.168.3.145' (timed out)")
