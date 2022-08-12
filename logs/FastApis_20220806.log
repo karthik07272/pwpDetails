@@ -1,0 +1,27 @@
+2022-08-06 10:59:12,940 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-06 11:05:39,751 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-06 12:10:04,909 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-06 12:12:49,918 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-06 12:40:20,087 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 41 - Login handler initialized
+2022-08-06 12:44:19,107 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 41 - Login handler initialized
+2022-08-06 12:45:27,403 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 41 - Login handler initialized
+2022-08-06 12:46:23,182 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 41 - Login handler initialized
+2022-08-06 12:46:33,620 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 41 - Login handler initialized
+2022-08-06 12:46:44,627 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 41 - Login handler initialized
+2022-08-06 12:49:34,028 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 52 - Login handler initialized
+2022-08-06 12:49:54,463 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 52 - Login handler initialized
+2022-08-06 12:50:58,487 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 52 - Login handler initialized
+2022-08-06 13:08:44,512 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 40 - Login handler initialized
+2022-08-06 13:08:44,544 - FastApi - ERROR  - mysql_utility.py - mysql_utility: execute_query: 439 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-06 13:09:44,325 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 40 - Login handler initialized
+2022-08-06 13:09:44,357 - FastApi - ERROR  - mysql_utility.py - mysql_utility: execute_query: 439 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-06 13:10:40,106 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 40 - Login handler initialized
+2022-08-06 13:10:40,130 - FastApi - ERROR  - mysql_utility.py - mysql_utility: execute_query: 439 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-06 13:14:42,461 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 40 - Login handler initialized
+2022-08-06 13:14:42,515 - FastApi - ERROR  - mysql_utility.py - mysql_utility: execute_query: 439 - Exception while updating: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-08-06 13:16:36,997 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 39 - Login handler initialized
+2022-08-06 13:18:23,138 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 40 - Login handler initialized
+2022-08-06 13:20:02,612 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 40 - Login handler initialized
+2022-08-06 13:20:52,106 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 40 - Login handler initialized
+2022-08-06 13:22:14,545 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 40 - Login handler initialized
+2022-08-06 13:22:37,244 - FastApi - INFO  - user_management_handler.py - user_management_handler: __init__: 40 - Login handler initialized
